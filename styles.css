@@ -1,0 +1,25 @@
+.page {
+	width: 1950px;
+	height: 1000px;
+	background-image:  url("img/fondecran.jpg");
+	margin: 0 0;
+}
+
+h1 {
+	color: #FF1493;
+}
+li {
+	color: yellow;
+	text-decoration: none;
+	display: flex;
+}
+
+.groupe {
+	border: groove 10px;
+	text-align: center;
+	margin-left: 500px;
+/*  	margin-right: auto;*/
+	width: 450px;
+	border-radius: 25px;
+
+}
